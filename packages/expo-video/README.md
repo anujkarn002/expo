@@ -11,7 +11,7 @@ A cross-platform, performant video component for React Native and Expo with Web 
 
 # API documentation
 
-- [Documentation for the main branch](https://github.com/expo/expo/blob/main/docs/pages/versions/unversioned/sdk/video.md)
+- [Documentation for the main branch](https://github.com/expo/expo/blob/main/docs/pages/versions/unversioned/sdk/video.mdx)
 - [Documentation for the latest stable release](https://docs.expo.dev/versions/latest/sdk/video/)
 
 # Installation in managed Expo projects
